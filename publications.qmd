@@ -1,5 +1,14 @@
 ---
 title: <h class = "large-text-light">Publications</h>
+format:
+  html:
+    theme: 
+      #- morph # if using custom style 
+      - styles.scss # using custom theme overlay
+    #css: styles.css
+    toc: false
+    page-layout: full # spreads out the content on the page
+    title-block-banner: true
 ---
 
 ### Submitted

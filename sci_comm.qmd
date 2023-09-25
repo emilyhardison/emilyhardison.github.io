@@ -1,5 +1,14 @@
 ---
 title: <h class = "large-text-light">Science Communication</h>
+format:
+  html:
+    theme: 
+      #- morph # if using custom style 
+      - styles.scss # using custom theme overlay
+    #css: styles.css
+    toc: false
+    page-layout: full # spreads out the content on the page
+    title-block-banner: true
 ---
 
 ### Journal of Experimental Biology - Outside JEB
@@ -12,7 +21,7 @@ The following articles are published in the **Journal of Experimental Biology** 
 
 ##### 2. Climate change leaves urchins on a rock in a hard place to live <button type=".button-styling"> [**article** {{< fa water = "water" >}}](https://journals.biologists.com/jeb/article/226/7/JEB245000/306231/Climate-change-leaves-urchins-on-a-rock-in-a-hard)</link> </button>
 
-##### 3. Ocean acidification causes some fishy side effects <button type="button-styling">[**article** {{< fa water = "water" >}}](https://journals.biologists.com/jeb/article/226/13/JEB245015/321192)</button>
+##### 3. Ocean acidification causes some fishy side effects <button type="button-styling">[**article** {{< fa fish = "a fish" >}}](https://journals.biologists.com/jeb/article/226/13/JEB245015/321192)</button>
 
 ### Marshmallow Minds
 
