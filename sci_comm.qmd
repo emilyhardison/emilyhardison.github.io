@@ -1,18 +1,20 @@
 ---
-title: <h class = "large-text">Science Communication</h>
+title: <h class = "large-text-light">Science Communication</h>
 ---
 
-##### **Journal of Experimental Biology - Outside JEB**
+### Journal of Experimental Biology - Outside JEB
 
 ------------------------------------------------------------------------
 
 The following articles are published in the **Journal of Experimental Biology** as part of [**Outside JEB**](https://journals.biologists.com/jeb/pages/article-types). Outside JEB is a monthly feature in JEB of short articles covering recent research papers published in other journals. Check it out!
 
-##### 1. Does turning up the heat affect how salmon eat? <button type="button-styling"> [**article**](https://journals.biologists.com/jeb/article/226/1/JEB244987/286271/Does-turning-up-the-heat-affect-how-salmon-eat) {{< fa fish = "a fish" >}} </button>
+##### 1. Does turning up the heat affect how salmon eat? <button type="button-styling"> [**article** {{< fa fish = "a fish" >}}](https://journals.biologists.com/jeb/article/226/1/JEB244987/286271/Does-turning-up-the-heat-affect-how-salmon-eat) </button>
 
-##### 2. Climate change leaves urchins on a rock in a hard place to live <button type=".button-styling"> [**article**](https://journals.biologists.com/jeb/article/226/7/JEB245000/306231/Climate-change-leaves-urchins-on-a-rock-in-a-hard)</link> {{< fa water = "water" >}} </button>
+##### 2. Climate change leaves urchins on a rock in a hard place to live <button type=".button-styling"> [**article** {{< fa water = "water" >}}](https://journals.biologists.com/jeb/article/226/7/JEB245000/306231/Climate-change-leaves-urchins-on-a-rock-in-a-hard)</link> </button>
 
-##### **Marshmallow Minds**
+
+
+### Marshmallow Minds
 
 ------------------------------------------------------------------------
 

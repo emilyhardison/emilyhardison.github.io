@@ -1,8 +1,8 @@
 ---
-title: <h class = "large-text">Publications</h>
+title: <h class = "large-text-light">Publications</h>
 ---
 
-##### Submitted
+### Submitted
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,9 @@ title: <h class = "large-text">Publications</h>
 
 12. Krista Kraskura, **Emily A. Hardison**, Erika J. Eliason. **Body size and temperature affect metabolic and cardiac thermal tolerance in fish.** In revision at *Scientific Reports*.
 
-##### Published ( ^+^ indicates equal contribution)
+<br>
+
+### Published ( ^+^ indicates equal contribution)
 
 ------------------------------------------------------------------------
 
