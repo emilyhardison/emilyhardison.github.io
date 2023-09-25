@@ -7,7 +7,7 @@ about:
   image-shape: round # other options are rectangle, rounded, round for image shape
   image-width: 17em # adjusting the size of the image on the homepage
   links: 
-    - href: https://twitter.com/eahardison?lang=en # click tab to make sure it's aligned with text. otherwise will throw error 
+    - href: https://twitter.com/emilyahardison?lang=en # click tab to make sure it's aligned with text. otherwise will throw error 
       icon: twitter
       
     - href: https://scholar.google.com/citations?user=2qX2B08AAAAJ&hl=en
