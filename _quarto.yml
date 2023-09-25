@@ -36,7 +36,7 @@ format:
     #css: styles.css
     toc: false
     page-layout: full # spreads out the content on the page
-    title-block-banner: true
+    #title-block-banner: true
     mainfont: Lato
 
 editor: visual
