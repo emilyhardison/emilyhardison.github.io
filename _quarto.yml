@@ -27,7 +27,7 @@ website:
         text: Sci Comm # how button appears in the nav bar
   page-footer: 
     left: Copyright 2023, Emily Hardison
-    right: This website is built with [Quarto](https://quarto.org/)
+    right: This website is built with [Quarto](https://quarto.org/) using materials from [Sam Csik](https://samanthacsik.github.io/)
 format:
   html:
     theme: 
