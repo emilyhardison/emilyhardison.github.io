@@ -1,0 +1,57 @@
+---
+title: <center> <h class = "large-gray-text"> Animal nutrition & temperature </h> </center>
+image: OPA_lab3.jpeg
+---
+
+```{=html}
+<style>
+
+#title-block-header {
+  margin-block-end: 0rem;
+  position: relative;
+  margin-top: -1px;
+  height: 75px;
+}
+
+.large-gray-text {
+  letter-spacing: 1px;
+  font-weight: 400;
+  font-size: 44px; 
+  color:  #5d889e;
+  //text-transform: uppercase;
+}
+
+</style>
+```
+<p>
+
+</p>
+
+Food provides essential nutrients and fuel that animals need to respond to changes in their environment (e.g., oxygen, pH, temperature, salinity...). But humans are impacting what animals have available to eat and the quality of that food. In my PhD thesis, I have been studying how changes in food quantity, food options, and food quality impact thermal plasticity and tolerance of a temperate omnivorous fish called opaleye.
+
+<center>
+
+```{r}
+#| eval: true
+#| echo: false
+#| layout-ncol: 2
+#| fig-cap-location: margin
+#| fig-align: center
+#| fig-subcap: 
+#| - "*Fishing down at Stearns Wharf in Santa Barbara for tiny opaleye. Yes, I have tried to cacth them with peas. No, it did not work.*"
+#| - "*Big thanks to everyone that helped me fish!*"
+
+ knitr::include_graphics("opaleye_fishing_3.jpeg")
+ knitr::include_graphics("opaleye_fishing_1.jpg")
+
+```
+
+</center>
+
+------------------------------------------------------------------------
+
+#### Relevant publications:
+
+-   **Emily A. Hardison**, Gail D. Schwieterman, Erika J. Eliason (2023). Diet changes thermal acclimation capacity, but not acclimation rate in a marine ectotherm (Girella nigricans) during warming. Proceedings of the Royal Society B. https://doi.org/10.1098/rspb.2022.2505
+
+-   **Emily A. Hardison**, Krista Kraskura, Jacey Van Wert, Tina Nguyen, Erika J. Eliason. (2021). Diet mediates thermal performance traits: implications for marine ectotherms. Journal of Experimental Biology. doi: 10.1242/jeb.242846. https://doi.org/10.1242/jeb.242846.

@@ -1,0 +1,19 @@
+---
+title: <h class = "large-text">Science Communication</h>
+---
+
+##### **Journal of Experimental Biology - Outside JEB**
+
+------------------------------------------------------------------------
+
+The following articles are published in the **Journal of Experimental Biology** as part of [**Outside JEB**](https://journals.biologists.com/jeb/pages/article-types). Outside JEB is a monthly feature in JEB of short articles covering recent research papers published in other journals. Check it out!
+
+##### 1. Does turning up the heat affect how salmon eat? <button type="button-styling"> [**article**](https://journals.biologists.com/jeb/article/226/1/JEB244987/286271/Does-turning-up-the-heat-affect-how-salmon-eat) {{< fa fish = "a fish" >}} </button>
+
+##### 2. Climate change leaves urchins on a rock in a hard place to live <button type=".button-styling"> [**article**](https://journals.biologists.com/jeb/article/226/7/JEB245000/306231/Climate-change-leaves-urchins-on-a-rock-in-a-hard)</link> {{< fa water = "water" >}} </button>
+
+##### **Marshmallow Minds**
+
+------------------------------------------------------------------------
+
+I am excited to be advising [**Marshmallow Minds**](https://www.marshmallowminds.org/) on their upcoming curriculum, **"A tough trek, salmon migration in a changing planet"**. Marshmallow Minds mission statement: "Marshmallow Minds is a 501(c)(3) public benefit nonprofit organization with the mission to make future-ready, highly engaging, and experiential education easily accessible and very affordable for Title-1 schools that serve children from under-resourced communities." Check out their website to learn more about their mission and ongoing projects!

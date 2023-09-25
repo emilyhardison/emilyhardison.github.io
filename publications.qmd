@@ -1,0 +1,63 @@
+---
+title: <h class = "large-text">Publications</h>
+---
+
+##### Submitted
+
+------------------------------------------------------------------------
+
+<!-- -->
+
+13. **Emily A. Hardison**, Erika J. Eliason. **Diet effects on ectotherm thermal performance**. In review at *Biological Reviews*.
+
+<!-- -->
+
+12. Krista Kraskura, **Emily A. Hardison**, Erika J. Eliason. **Body size and temperature affect metabolic and cardiac thermal tolerance in fish.** In revision at *Scientific Reports*.
+
+##### Published ( ^+^ indicates equal contribution)
+
+------------------------------------------------------------------------
+
+11. Gail D. Schwieterman; **Emily A. Hardison**; Georgina K. Cox; Jacey Van Wert; Kim Birnie-Gauvina; Erika J. Eliason. **Mechanisms of cardiac collapse at high temperature in a marine teleost (Girella nigrians).** In press at *Comparative Physiology and Biochemistry Part A*.
+
+<!-- -->
+
+10. **Emily A. Hardison**, Gail D. Schwieterman, Erika J. Eliason (2023). [[**Diet changes thermal acclimation capacity, but not acclimation rate in a marine ectotherm (Girella nigricans) during warming.**]{.underline}](https://doi.org/10.1098/rspb.2022.2505) *Proceedings of the Royal Society B*. Featured in [[**'Outside JEB'**]{.underline}](https://journals.biologists.com/jeb/article/226/11/JEB245012/313571/Hot-hearts-can-beat-faster-when-meat-is-on-the)
+
+<!-- -->
+
+9.  Samantha R. Csik, Bartholomew P. DiFiore, Krista Kraskura, **Emily A. Hardison**, Joseph S. Curtis, Erika J. Eliason, and Adrian C. Stier (2023). [[**The metabolic underpinnings of temperature-dependent predation in a key marine predator.**]{.underline}](https://doi.org/10.3389/fmars.2023.1072807) *Frontiers in Marine Science*.
+
+<!-- -->
+
+8.  Alexander G. Little, Tanya S. Prystay, **Emily A. Hardison**, Terra Dressler, Krista Kraskura, Steven J. Cooke, David A. Patterson, Scott G. Hinch, Erika J. Eliason. (2022). [[**Evaluating Cardiac Oxygen Limitation as a Mechanism for Female-Biased Mortality in Coho Salmon (Oncorhynchus kisutch).**]{.underline}](https://doi.org/10.1139/cjz-2022-0072.) *Canadian Journal of Zoology*.
+
+<!-- -->
+
+7.  Gail D. Schwieterman, **Emily A. Hardison**, Erika J. Eliason (2022). [[**Effect of thermal variation on the cardiac thermal limits of a eurythermal marine teleost (Girella nigricans).**]{.underline}](https://doi.org/10.1016/j.crphys.2022.02.002.) *Current Research in Physiology* (special issue).
+
+<!-- -->
+
+6.  **Emily A. Hardison**, Krista Kraskura, Jacey Van Wert, Tina Nguyen † , Erika J. Eliason. (2021). [[**Diet mediates thermal performance traits: implications for marine ectotherms.**]{.underline}](https://doi.org/10.1242/jeb.242846.) *Journal of Experimental Biology*. Winner of JEB [[**outstanding paper prize**]{.underline}](https://journals.biologists.com/jeb/article/225/2/jeb243996/274150) and featured in [[**'Inside JEB'**]{.underline}](https://journals.biologists.com/jeb/article/224/21/jeb243659/272690/Diet-alters-how-opaleyes-cope-with-heat?searchresult=1) and the [[**UCSB current**]{.underline}](https://www.news.ucsb.edu/2021/020487/opaleye-opening-result)[.]{.underline}
+
+<!-- -->
+
+5.  Krista Kraskura^+^, **Emily A. Hardison^+^**, Alexander G. Little, Terra Dressler, Tanya S. Prystay, Brian Hendriks, Tony P. Farrell, Steve J. Cooke, David A. Patterson, Scott G. Hinch, and Erika J. Eliason. (2021). [[**Sex-specific differences in swimming, aerobic scope, and recovery from exercise in adult coho salmon (Oncorhynchus kisutch) across ecologically relevant temperatures.**]{.underline}](https://doi.org/10.1093/conphys/coab016) *Conservation Physiology*. Featured in 'Outside JEB'. ^+^co-first author
+
+<!-- -->
+
+4.  Alexander G. Little, **Emily Hardison**, Krista Kraskura, Terra Dressler, Tanya Prystay, Brian Hendriks, Jonathon Pruitt, Tony P. Farrell, Steve J. Cooke, David Patterson, Scott G. Hinch, and Erika Eliason. (2020). [[**Reduced lactate dehydrogenase activity in the heart and suppressed sex hormone levels are associated with female-biased mortality during thermal stress in Pacific salmon.**]{.underline}](https://doi.org/10.1242/jeb.214841) *Journal of Experimental Biology*.
+
+<!-- -->
+
+3.  Alexander G. Little^+^, Terra Dressler^+^, Krista Kraskura, **Emily Hardison**, Tony P. Farrell, Scott J. Hinch, David A. Patterson, Erika J. Eliason. (2020). [[**Maxed out: Optimizing accuracy, precision and power for field measures of maximum metabolic rate in fishes.**]{.underline}](https://doi.org/10.1086/708673.) *Physiological and Biochemical Zoology.*
+
+<!-- -->
+
+2.  Mikhail Binnewies^+^, Adriana M. Mujal^+^, Joshua L. Pollack, Alexis J. Combes, **Emily A. Hardison**, Megan K. Ruhland, Kevin C. Barry, Patrick Ha, Vincent Chan, Edward W. Roberts, Matthew F. Krummel. (2019) [[**Unleashing Type-2 Dendritic Cells to Drive Protective Antitumor CD4+ T Cell Immunity**]{.underline}**.**](https://doi.org/10.1016/J.CELL.2019.02.005) *Cell*.
+
+<!-- -->
+
+1.  Matthew F. Krummel, Jagdish N. Mahale, Lion F. K. Uhl, **Emily A. Hardison**, Adriana M. Mujal, Julie M. Mazet, Robert J. Weber, Zev J. Gartner, and Audrey Gérard (2018). [[**Paracrine costimulation of IFN-γ signaling by integrins modulates CD8 T cell differentiation.**]{.underline}](https://doi.org/10.1073/pnas.1804556115) *Proceedings of the National Academy of Sciences*.
+
+------------------------------------------------------------------------

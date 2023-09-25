@@ -1,0 +1,296 @@
+
+// syntax - // for notes, Variable followed by semi colon (;) needed
+
+/*-- scss:defaults --*/
+
+// Import fonts (define mainfont in _quarto.yml)
+
+//@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+@import url(https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Allerta&family=Dancing+Script:wght@400;500&family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Lobster&family=Pacifico&display=swap);
+
+// Colors
+$light-sage-green: #6f9990;
+$dark-sage-green: #2f4945;
+$light-cream: #F2F6F8;
+$cream: #e3ebef;
+$gray: #5d889e;
+$dark-gray: #3C5967;
+$darkest-gray: #182D39;
+$light-gray: #aabdc1;
+$bright-blue: #3B7491;
+$black: #000000;
+$rose-tope: #93464c;
+$burnt-orange: #6b0c22;
+$purple: #DDDEF4;
+$lime: #A1A527;
+
+
+// Base document colors
+$navbar-bg:  #182D39;
+$navbar-fg: $light-cream; 
+$navbar-hl: $gray;
+$body-bg: $light-cream;
+$body-color:  #182D39;
+$footer-bg:  $gray; 
+$footer-fg: $light-cream; 
+$link-color: #182D39;
+
+$content-padding-top: 3em;
+
+
+/*-- scss:rules --*/
+
+/* ELEMENT SELECTORS */
+
+h1, h2, h3, h4, h5, h6 {
+  letter-spacing: 3px;
+  font-weight: 500;
+  color:  #182D39;
+}
+
+h3, h4 {
+  //text-transform: uppercase;
+}
+
+h1 {
+  text-align: center; // making title on pages centered
+
+}
+
+body {
+  line-height: 1.5; // min 1.5 suggested for assistive tech
+  font-size: 18px;
+  
+}
+
+
+/* CLASS SELECTORS (self-defined) */
+ 
+.navbar {
+  font-family: Dancing Script;
+  font-size: 24px;
+  font-weight: 800;
+  letter-spacing: 3px;
+  padding: 0.2em;
+}
+ 
+.navbar-brand img { // see https://github.com/robertmitchellv/robertmitchellv.github.io/blob/main/custom-dark.scss
+  max-height: 80px;
+  width: auto;
+}
+
+.footer {
+  font-family: 'Dancing Script';
+  font-size: 18px;
+  font-weight: 800;
+  letter-spacing: 3px;
+}
+
+.custom-subheader {
+  letter-spacing: 3px;
+  font-weight: 800;
+  font-size: 36px; 
+  color: $gray;
+  font-family: 'Dancing Script'; 
+}
+
+.custom-icon {
+  font-size: 24px; 
+  color: #182D39;
+}
+
+.large-gray-text {
+  letter-spacing: 3px;
+  font-weight: 400;
+  font-size: 24px; 
+  color:  #182D39;
+  //text-transform: uppercase;
+  font-family: Lato;
+
+}
+
+.large-gray-text-1 {
+  letter-spacing: 1.5px;
+  font-weight: 400;
+  font-size: 24px; 
+  color:  #182D39;
+  //text-transform: uppercase;
+  font-family: Lato;
+
+}
+
+
+.large-text {
+  letter-spacing: 3px;
+  font-weight: 500;
+  font-size: 36px; 
+  color:  #182D39;
+ // text-transform: uppercase;
+}
+
+
+/* Button */
+
+	input[type="submit"],
+	input[type="reset"],
+	input[type="button"],
+	button,
+	.button {
+		-moz-appearance: none;
+		-webkit-appearance: none;
+		-ms-appearance: none;
+		appearance: none;
+		-moz-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
+		-webkit-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
+		-ms-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
+		transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
+		border: 0;
+		cursor: pointer;
+		display: inline-block;
+		font-weight: 400;
+		letter-spacing: 0.125em;
+		text-align: center;
+		text-decoration: none;
+		text-transform: uppercase;
+		white-space: nowrap;
+		font-size: 0.85rem;
+		max-width: 20rem;
+		height: 3.75em;
+		line-height: 3.75em;
+		border-radius: 3.75em;
+		padding: 0 1.5em;
+		text-overflow: ellipsis;
+		overflow: hidden;
+	}
+
+		input[type="submit"].icon:before,
+		input[type="reset"].icon:before,
+		input[type="button"].icon:before,
+		button.icon:before,
+		.button.icon:before {
+			margin-right: 0.5rem;
+		}
+
+		input[type="submit"].fit,
+		input[type="reset"].fit,
+		input[type="button"].fit,
+		button.fit,
+		.button.fit {
+			width: 100%;
+		}
+
+		input[type="submit"].small,
+		input[type="reset"].small,
+		input[type="button"].small,
+		button.small,
+		.button.small {
+			font-size: 0.6rem;
+			height: 3.325em;
+			line-height: 3.325em;
+			border-radius: 3.325em;
+			padding: 0 2em;
+		}
+
+		input[type="submit"].large,
+		input[type="reset"].large,
+		input[type="button"].large,
+		button.large,
+		.button.large {
+			font-size: 0.8rem;
+			height: 4em;
+			line-height: 4em;
+			border-radius: 4em;
+			padding: 0 2em;
+		}
+
+		input[type="submit"].wide,
+		input[type="reset"].wide,
+		input[type="button"].wide,
+		button.wide,
+		.button.wide {
+			min-width: 14em;
+		}
+
+		input[type="submit"].disabled, input[type="submit"]:disabled,
+		input[type="reset"].disabled,
+		input[type="reset"]:disabled,
+		input[type="button"].disabled,
+		input[type="button"]:disabled,
+		button.disabled,
+		button:disabled,
+		.button.disabled,
+		.button:disabled {
+			pointer-events: none;
+			opacity: 0.25;
+		}
+
+	input[type="submit"],
+	input[type="reset"],
+	input[type="button"],
+	button,
+	.button {
+		background-color: #e3ebef;
+		box-shadow: inset 0 0 0 2px #182D39;
+		color: #182D39 !important;
+	}
+	
+		input[type="submit"]:hover,
+		input[type="reset"]:hover,
+		input[type="button"]:hover,
+		button:hover,
+		.button:hover {
+			box-shadow: inset 0 0 0 1px #72beb7;
+			color: #72beb7 !important;
+		}
+
+		input[type="submit"]:active,
+		input[type="reset"]:active,
+		input[type="button"]:active,
+		button:active,
+		.button:active {
+			background-color: rgba(71, 211, 229, 0.2);
+			box-shadow: inset 0 0 0 1px #72beb7;
+			color: #72beb7 !important;
+		}
+
+		input[type="submit"].primary,
+		input[type="reset"].primary,
+		input[type="button"].primary,
+		button.primary,
+		.button.primary {
+			background-color: #000000;
+			box-shadow: none;
+			color: #ffffff !important;
+		}
+
+			input[type="submit"].primary:hover,
+			input[type="reset"].primary:hover,
+			input[type="button"].primary:hover,
+			button.primary:hover,
+			.button.primary:hover {
+				background-color: #72beb7;
+			}
+
+			input[type="submit"].primary:active,
+			input[type="reset"].primary:active,
+			input[type="button"].primary:active,
+			button.primary:active,
+			.button.primary:active {
+				background-color: #72beb7;
+			}
+
+
+ /* Removes underlines on links */
+a:link {
+      text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: #72beb7;
+}
+
+
+
+

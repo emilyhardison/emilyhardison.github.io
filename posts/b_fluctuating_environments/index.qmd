@@ -1,0 +1,42 @@
+---
+title: <center><h class = "large-gray-text"> Life in variable environments </h></center>
+image: opaleye_wild_1.jpeg
+---
+
+```{=html}
+<style>
+
+#title-block-header {
+  margin-block-end: 0rem;
+  position: relative;
+  margin-top: -1px;
+  height: 75px;
+}
+.large-gray-text {
+  letter-spacing: 1px;
+  font-weight: 400;
+  font-size: 44px; 
+  color:  #5d889e;
+  //text-transform: uppercase;
+}
+</style>
+```
+<p>
+
+</p>
+
+How do animals cope with environmental changes occurring across timescales (from minutes to days to weeks to years)? Animals living in temperate environments need to be able to cope with rapid and more prolonged changes in temperature. While scientists are increasingly appreciating and incorporating natural variability into experiments, this is an active area of research with so much still to be discovered! I'm interested in the mechanisms animals use to cope with different types of variation and have studied this a bit in my own thesis, looking at how diet may influence acclimation rates, acute thermal performance curves, and acclimation capacity. I've also had the opportunity to help out with some awesome projects lead by other researchers -- check out Sam csik's work looking at month long acclimation impacts of temperature on California spiny lobster predator-prey interactions and metabolism or Dr. Gail Schwieterman's work on how daily temperature swings affect cardiac acclimation in opaleye.
+
+<!-- ![*Opaleye and purple urchins at Catalina Island, CA, USA - photo credit: Jacey Van Wert*](opaleye_wild_1.jpeg){height=4in} -->
+
+------------------------------------------------------------------------
+
+#### Relevant publications:
+
+-   **Emily A. Hardison**, Gail D. Schwieterman, Erika J. Eliason (2023). Diet changes thermal acclimation capacity, but not acclimation rate in a marine ectotherm (Girella nigricans) during warming. Proceedings of the Royal Society B. https://doi.org/10.1098/rspb.2022.2505
+
+-   Samantha R. Csik, Bartholomew P. DiFiore, Krista Kraskura, **Emily A. Hardison**, Joseph S. Curtis, Erika J. Eliason, and Adrian C. Stier (2023). The metabolic underpinnings of temperature-dependent predation in a key marine predator. Frontiers in Marine Science. doi: 10.3389/fmars.2023.1072807
+
+-   Gail D. Schwieterman, **Emily A. Hardison**, Erika J. Eliason (2022). Effect of thermal variation on the cardiac thermal limits of a eurythermal marine teleost (Girella nigricans). Current Research in Physiology (special issue). https://doi.org/10.1016/j.crphys.2022.02.002.
+
+-   **Emily A. Hardison**, Krista Kraskura, Jacey Van Wert, Tina Nguyen, Erika J. Eliason. (2021). Diet mediates thermal performance traits: implications for marine ectotherms. Journal of Experimental Biology. doi: 10.1242/jeb.242846. https://doi.org/10.1242/jeb.242846.

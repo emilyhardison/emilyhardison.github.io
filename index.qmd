@@ -1,0 +1,34 @@
+---
+title: <h class = "custom-subheader">Emily Hardison</h>
+image: media/headshot_hardison.png
+#image: media/hardison_headshot2.jpeg
+about:
+  template: trestles # template for the home page 
+  image-shape: round # other options are rectangle, rounded, round for image shape
+  image-width: 17em # adjusting the size of the image on the homepage
+  links: 
+    - href: https://twitter.com/eahardison?lang=en # click tab to make sure it's aligned with text. otherwise will throw error 
+      icon: twitter
+      
+    - href: https://scholar.google.com/citations?user=2qX2B08AAAAJ&hl=en
+      icon: google
+      
+    - href: mailto:emilyhardison@ucsb.edu
+      icon: envelope 
+---
+
+<!-- <a class = "custom-icon">{{< fa earth-americas = "a fish" >}}</a>  -->
+
+<h class = "large-gray-text-1">Hi, I'm Emily </h>
+
+------------------------------------------------------------------------
+
+I'm an ecophysiologist broadly interested in organismal responses to environmental change. I completed my PhD in the Ecology, Evolution, and Marine Biology department at UC Santa Barbara in [**Dr. Erika Eliason's lab**](https://erikaeliason.com/). For my thesis, I studied how changes in fish nutrition impacts their thermal plasticity and thermal tolerance. Next up, I will be joining [**Dr. Kevin Kohl's lab**](https://www.kohl-lab.com/) at the University of Pittsburgh as a NSF post-doctoral research fellow.
+
+### <h class = "large-gray-text-1"> Education </h>
+
+------------------------------------------------------------------------
+
+PhD Candidate - UC Santa Barbara (2023)\
+BS Marine Biology - UC Santa Cruz (2014)\
+BS Molecular Biology - UC Santa Cruz (2014) <!-- two spaces after the line to make it not a big space between lines -->

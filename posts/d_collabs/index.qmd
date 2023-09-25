@@ -1,0 +1,68 @@
+---
+title: <center><h class = "large-gray-text">Other collaborations & fun things</h></center>
+image: dog_lobster.jpeg
+---
+
+```{=html}
+<style>
+
+#title-block-header {
+  margin-block-end: 0rem;
+  position: relative;
+  margin-top: -1px;
+  height: 75px;
+}
+.large-gray-text {
+  letter-spacing: 1px;
+  font-weight: 400;
+  font-size: 44px; 
+  color:  #5d889e;
+  //text-transform: uppercase;
+}
+</style>
+```
+<p>
+
+</p>
+
+I have had the privelage of assisting some amazing people in their research on all sorts of critters from Mano de León scallops to California Spiny lobster and more!
+
+<center>
+
+```{r}
+#| eval: true
+#| echo: false
+#| layout-ncol: 2
+#| fig-cap-location: margin
+#| fig-align: center
+#| fig-subcap: 
+#| - "Dog meets lobster"
+#| - "A very sassy scallop"
+
+knitr::include_graphics("dog_lobster.jpeg")
+knitr::include_graphics("scallop.jpeg")
+```
+
+</center>
+
+------------------------------------------------------------------------
+
+#### Relevant publications:
+
+###### [*Mechanisms of cardiac thermal tolerance in fish (led by Dr. Gail Schwieterman)*]{.underline}
+
+-   Gail D. Schwieterman; **Emily A. Hardison**; Georgina K. Cox; Jacey Van Wert; Kim Birnie-Gauvina; Erika J. Eliason Mechanisms of cardiac collapse at high temperature in a marine teleost (Girella nigrians). Submitted to *Journal of Experimental Biology*.
+
+###### [*Temperature and size on Barred Surfperch (led by Dr. Krista Kraskura)*]{.underline}
+
+-   Krista Kraskura, **Emily A. Hardison**, Erika J. Eliason. Body size and temperature affect metabolic and cardiac thermal tolerance in fish. In review at *Scientific Reports*.
+
+###### [*Temperature on Lobsters (led by Samantha Csik)*]{.underline}
+
+-   Samantha R. Csik, Bartholomew P. DiFiore, Krista Kraskura, **Emily A. Hardison**, Joseph S. Curtis, Erika J. Eliason, and Adrian C. Stier (2023). The metabolic underpinnings of temperature-dependent predation in a key marine predator. *Frontiers in Marine Science*. doi: 10.3389/fmars.2023.1072807
+
+###### [*Tumor Immunology in mice (led by members of the Krummel lab at UCSF)*]{.underline}
+
+-   Mikhail Binnewies+, Adriana M. Mujal+, Joshua L. Pollack, Alexis J. Combes, **Emily A. Hardison**, Megan K. Ruhland, Kevin C. Barry, Patrick Ha, Vincent Chan, Edward W. Roberts, Matthew F. Krummel. (2019) Unleashing Type-2 Dendritic Cells to Drive Protective Antitumor CD4+ T Cell Immunity. *Cell*. https://doi.org/10.1016/J.CELL.2019.02.005.
+
+-   Matthew F. Krummel, Jagdish N. Mahale, Lion F. K. Uhl, **Emily A. Hardison**, Adriana M. Mujal, Julie M. Mazet, Robert J. Weber, Zev J. Gartner, and Audrey Gérard (2018). Paracrine costimulation of IFN-γ signaling by integrins modulates CD8 T cell differentiation. *Proceedings of the National Academy of Sciences*, 115(45), 11585 LP-11590. https://doi.org/10.1073/pnas.1804556115

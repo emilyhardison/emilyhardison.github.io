@@ -1,0 +1,41 @@
+project: 
+  type: website
+  output-dir: docs # where files are rendered to 
+
+website:
+  title: ""
+  navbar:
+    search: true 
+    logo: media/logo2.png
+    right:
+      # - href: index.qmd
+      #   text: Home 
+      - text: Research
+        href: posts.qmd
+        # contents:
+        #    - text: Diet and temperature
+        #     file: posts/a_diet/index.qmd
+        #   - text: Thermal variability
+        #     file: posts/b_fluctuating_environments/index.qmd
+        #    - text: Salmon
+        #      file: posts/c_salmon/index.qmd
+        #    - text: Other
+        #       file: posts/d_collabs/index.qmd
+      - href: publications.qmd # file link
+        text: Publications # how button appears in the nav bar
+      - href: sci_comm.qmd # file link
+        text: Sci Comm # how button appears in the nav bar
+  page-footer: 
+    left: Copyright 2023, Emily Hardison
+    right: This website is built with [Quarto](https://quarto.org/)
+format:
+  html:
+    theme: 
+      #- morph # if using custom style 
+      - styles.scss # using custom theme overlay
+    #css: styles.css
+    toc: false
+    page-layout: full # spreads out the content on the page
+    mainfont: Lato
+
+editor: visual
