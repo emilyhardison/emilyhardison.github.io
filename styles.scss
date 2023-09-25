@@ -238,11 +238,11 @@ body {
 	input[type="button"],
 	button,
 	.button {
-		background-color: #e3ebef;
-		box-shadow: inset 0 0 0 2px #182D39;
-		color: #182D39 !important;
+		background-color: $gray;
+		box-shadow: inset 0 0 0 2px $gray;
+		color: $gray !important;
 	}
-	
+	 
 		input[type="submit"]:hover,
 		input[type="reset"]:hover,
 		input[type="button"]:hover,
