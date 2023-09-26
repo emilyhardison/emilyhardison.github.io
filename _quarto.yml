@@ -22,7 +22,7 @@ website:
         #    - text: Other
         #       file: posts/d_collabs/index.qmd
       - href: publications.qmd # file link
-        text: Publications # how button appears in the nav bar
+        text: Pubs # how button appears in the nav bar
       - href: sci_comm.qmd # file link
         text: Sci Comm # how button appears in the nav bar
   page-footer: 

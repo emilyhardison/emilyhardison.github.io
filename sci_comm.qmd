@@ -1,5 +1,5 @@
 ---
-title: <h class = "large-text-light">Science Communication</h>
+title: <h class = "large-text-light">**Science Communication**</h>
 format:
   html:
     theme: 

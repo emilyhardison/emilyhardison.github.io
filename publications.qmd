@@ -1,5 +1,5 @@
 ---
-title: <h class = "large-text-light">Publications</h>
+title: <h class = "large-text-light">**Publications**</h>
 format:
   html:
     theme: 
@@ -29,7 +29,7 @@ format:
 
 ------------------------------------------------------------------------
 
-11. Gail D. Schwieterman; **Emily A. Hardison**; Georgina K. Cox; Jacey Van Wert; Kim Birnie-Gauvina; Erika J. Eliason. **Mechanisms of cardiac collapse at high temperature in a marine teleost (Girella nigrians).** In press at *Comparative Physiology and Biochemistry Part A*.
+11. Gail D. Schwieterman; **Emily A. Hardison**; Georgina K. Cox; Jacey Van Wert; Kim Birnie-Gauvin; Erika J. Eliason. [[**Mechanisms of cardiac collapse at high temperature in a marine teleost (Girella nigrians).**]{.underline}](https://doi.org/10.1016/j.cbpa.2023.111512) *Comparative Physiology and Biochemistry Part A*. 
 
 <!-- -->
 
