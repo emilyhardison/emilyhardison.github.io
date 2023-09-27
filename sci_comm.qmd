@@ -1,5 +1,5 @@
 ---
-title: <h class = "large-text-light">**Science Communication**</h>
+title: ""
 format:
   html:
     theme: 
@@ -10,22 +10,89 @@ format:
     page-layout: full # spreads out the content on the page
     title-block-banner: true
 ---
-Please note: This page is a work in progress
 
-### Journal of Experimental Biology - Outside JEB
 
-------------------------------------------------------------------------
 
+
+<!------------------------------------------------------------------------------------>
+<!---------------- START outside jeb section ---------------->
+::: {.column-screen}
+::: {.light-gray-div}
+::: {.lime-underline .center-text}
+# **Outside JEB**
+:::
+<br>
 The following articles are published in the **Journal of Experimental Biology** as part of [**Outside JEB**](https://journals.biologists.com/jeb/pages/article-types). Outside JEB is a monthly feature in JEB of short articles covering recent research papers published in other journals. Check it out!
 
-##### 1. Does turning up the heat affect how salmon eat? <button type="button-styling"> [**article** {{< fa temperature-arrow-up = "a thermometer" >}}](https://journals.biologists.com/jeb/article/226/1/JEB244987/286271/Does-turning-up-the-heat-affect-how-salmon-eat) </button>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ START articles ~~~~~~~~~~~~-->
+::: {.center-text}
+::: {.grid}
 
-##### 2. Climate change leaves urchins on a rock in a hard place to live <button type=".button-styling"> [**article** {{< fa earth-americas = "globe" >}}](https://journals.biologists.com/jeb/article/226/7/JEB245000/306231/Climate-change-leaves-urchins-on-a-rock-in-a-hard)</link> </button>
+<!----------- START article 1 box ----------->
+::: {.g-col-12 .g-col-md-4 .stat-box}
+::: {.large-stat-num .lime-text}
+{{< fa temperature-arrow-up = "a thermometer" >}}
+:::
+:::{.med-sm-body-text}
+[Does turning up the **heat** affect how salmon **eat**?](https://journals.biologists.com/jeb/article/226/1/JEB244987/286271/Does-turning-up-the-heat-affect-how-salmon-eat)  
+:::
+:::
+<!----------- END article 1 box ----------->
 
-##### 3. Ocean acidification causes some fishy side effects <button type="button-styling">[**article** {{< fa fish = "a fish" >}}](https://journals.biologists.com/jeb/article/226/13/JEB245015/321192)</button>
+<!----------- START article 2 box ----------->
+::: {.g-col-12 .g-col-md-4 .stat-box}
+::: {.large-stat-num .lime-text}
+{{< fa earth-americas = "globe" >}}
+:::
+:::{.med-sm-body-text}
+[**Climate change** leaves urchins on a rock in a hard place to live](https://journals.biologists.com/jeb/article/226/7/JEB245000/306231/Climate-change-leaves-urchins-on-a-rock-in-a-hard)
+:::
+:::
+<!----------- END article 2 box ----------->
 
-### Marshmallow Minds
+<!----------- START article 3 box ----------->
+::: {.g-col-12 .g-col-md-4 .stat-box}
+::: {.large-stat-num .lime-text}
+{{< fa fish = "a fish" >}}
+:::
+:::{.med-sm-body-text}
+[**Ocean acidification** causes some fishy side effects](https://journals.biologists.com/jeb/article/226/13/JEB245015/321192)                
+:::
+:::
+<!----------- END article 3 box ----------->
 
-------------------------------------------------------------------------
+:::
+:::
+<!--~~~~~~~~~~~~~~ END articles ~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
+
+<br>
+
+:::
+:::
+<!---------------- END outside jeb section ---------------->
+<!---------------------------------------------------------------------------------->                                                            
+<br>
+<br>
+<br>
+
+<!------------------------------------------------------------------------------------>
+<!---------------- START outside jeb section ---------------->
+::: {.column-screen}
+::: {.lime-div}
+::: {.gray-underline .center-text}
+# **Marshmallow minds**
+:::
+<br>
 I am excited to be advising [**Marshmallow Minds**](https://www.marshmallowminds.org/) on their upcoming curriculum, **"A tough trek, salmon migration in a changing planet"**. Marshmallow Minds mission statement: "Marshmallow Minds is a 501(c)(3) public benefit nonprofit organization with the mission to make future-ready, highly engaging, and experiential education easily accessible and very affordable for Title-1 schools that serve children from under-resourced communities." Check out their website to learn more about their mission and ongoing projects!
+
+
+<br>
+
+:::
+:::
+<!---------------- END outside jeb section ---------------->
+<!---------------------------------------------------------------------------------->                                                            
+
