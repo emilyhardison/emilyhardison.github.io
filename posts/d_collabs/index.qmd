@@ -2,7 +2,7 @@
 title: <center><h class = "large-gray-text">Other collaborations & fun things</h></center>
 image: dog_lobster.jpeg
 ---
- 
+
 ```{=html}
 <style>
 
@@ -28,7 +28,6 @@ image: dog_lobster.jpeg
 I have had the privelage of assisting some amazing people in their research on all sorts of critters from Mano de León scallops to California Spiny lobster and more!
 
 <center>
-
 ```{r}
 #| eval: true
 #| echo: false
@@ -41,9 +40,10 @@ I have had the privelage of assisting some amazing people in their research on a
 
 knitr::include_graphics("dog_lobster.jpeg")
 knitr::include_graphics("scallop.jpeg")
-```
 
+```
 </center>
+
 
 ------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@ knitr::include_graphics("scallop.jpeg")
 
 ###### *Mechanisms of cardiac thermal tolerance in fish (led by Dr. Gail Schwieterman)*
 
--   Gail D. Schwieterman; **Emily A. Hardison**; Georgina K. Cox; Jacey Van Wert; Kim Birnie-Gauvin; Erika J. Eliason. [[**Mechanisms of cardiac collapse at high temperature in a marine teleost (Girella nigrians).**]{.underline}](https://doi.org/10.1016/j.cbpa.2023.111512) *Comparative Physiology and Biochemistry Part A*.  
+-   Gail D. Schwieterman; **Emily A. Hardison**; Georgina K. Cox; Jacey Van Wert; Kim Birnie-Gauvin; Erika J. Eliason. [[**Mechanisms of cardiac collapse at high temperature in a marine teleost (Girella nigrians).**]{.underline}](https://doi.org/10.1016/j.cbpa.2023.111512) *Comparative Physiology and Biochemistry Part A*.
 
 ###### *Temperature and size on Barred Surfperch (led by Dr. Krista Kraskura)*
 
