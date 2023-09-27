@@ -2,7 +2,7 @@
 title: <center><h class = "large-gray-text">Other collaborations & fun things</h></center>
 image: dog_lobster.jpeg
 ---
-
+ 
 ```{=html}
 <style>
 
