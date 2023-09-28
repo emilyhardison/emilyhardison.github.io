@@ -14,13 +14,13 @@ image: OPA_lab3.jpeg
 }
 
 .large-gray-text {
-  letter-spacing: 1px;
-  font-weight: 400;
-  font-size: 44px; 
-  color:  #5d889e;
+  letter-spacing: 3px;
+  font-weight: 500;
+  font-size: 36px; 
+  color:  #e3ebef;
   //text-transform: uppercase;
 }
-
+ 
 </style>
 ```
 <p>

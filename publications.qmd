@@ -11,6 +11,27 @@ format:
     title-block-banner: true
 ---
 
+\`\`\`{=html}
+
+```{=html}
+<style>
+
+#title-block-header {
+  margin-block-end: 2rem;
+  position: relative;
+  margin-top: -1px;
+  height: 75px;
+}
+
+.large-gray-text {
+  letter-spacing: 3px;
+  font-weight: 500;
+  color:  $cream;
+  //text-transform: uppercase;
+}
+
+</style>
+```
 ### Submitted
 
 ------------------------------------------------------------------------
