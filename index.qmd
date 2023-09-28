@@ -30,6 +30,6 @@ I'm an ecophysiologist broadly interested in how animals respond to environmenta
 
 ------------------------------------------------------------------------
 
-PhD Candidate - UC Santa Barbara (2023)\
+PhD - UC Santa Barbara (2023)\
 BS Marine Biology - UC Santa Cruz (2014)\
 BS Molecular Biology - UC Santa Cruz (2014) <!-- two spaces after the line to make it not a big space between lines -->
