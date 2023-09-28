@@ -123,7 +123,6 @@ body {
 .large-text-light {
   letter-spacing: 3px;
   font-weight: 500;
-  font-size: 40px; 
   color:  $cream;
  // text-transform: uppercase;
 }
@@ -144,7 +143,7 @@ a:link {
 
 /* mouse over link */
 a:hover {
-  color: $gray;
+  color: $lime;
 }
 
 
@@ -166,7 +165,7 @@ a:hover {
   text-underline-offset: 10px; // https://developer.mozilla.org/en-US/docs/Web/CSS/text-underline-offset
   text-decoration-thickness: 4px;
 }
-
+ 
 // used to create white div 
 .white-div { 
   background-color: $cream;
@@ -213,7 +212,12 @@ a:hover {
 .lime-text { 
   color: $lime;
 }
-
+ 
+// cream text
+.cream-text { 
+  color: $cream;
+}
+ 
 // medium/small-sized text
 .med-sm-body-text { 
   font-size: 20px;
