@@ -18,6 +18,8 @@ about:
       icon: envelope 
 ---
 
+
+
 <!-- <a class = "custom-icon">{{< fa earth-americas = "a fish" >}}</a>  -->
 
 <h class = "large-gray-text-1">Hi, I'm Emily </h>

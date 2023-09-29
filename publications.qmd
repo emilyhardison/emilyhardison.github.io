@@ -11,8 +11,6 @@ format:
     title-block-banner: true
 ---
 
-
-
 ```{=html}
 <style>
 

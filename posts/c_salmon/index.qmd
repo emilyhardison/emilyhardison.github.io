@@ -28,22 +28,17 @@ image: salmon_resp.jpg
 
 Female salmon suffer higher rates of en route mortality than males during their upriver migration. The Eliason lab has been exploring the drivers of this phenomenom. In 2017, I had the opportunity to travel to Cultus Lake in British Columbia, Canada, and participate in an ongoing project in the Eliason Lab on **female-biased mortality in coho salmon**. This work was led by Dr. Erika Eliason and was a large collaborative effort involving researcher's from UBC, UCSB, Carlton University, and DFO. While we didn't figure out exactly why the females were dying, we did learn a lot about coho salmon energetics, thermal sensitivity, swimming performance, and more! Here are some of the photos from the trip. Check out our papers below!
 
-<center>
+::: {layout-ncol="2"}
+<div class="image-container">
+  <img src="salmon_resp.jpg" class="clickable-image" data-src="dsalmon_resp.jpg" style="border-radius: 30px;" alt="Adult coho salmon in intermittent flow respirometers in Cultus Lake, Canada (photo: Krista Kraskura)">
+</div>
 
-```{r}
-#| eval: true
-#| echo: false
-#| layout-ncol: 2
-#| fig-cap-location: margin
-#| fig-align: center
-#| fig-subcap: 
-#| - "*Adult coho salmon in intermittent flow respirometers (photo: Krista Kraskura)*"
-#| - "*Cultus Lake research station in the snow (photo: Krista Kraskura)*"
- knitr::include_graphics("salmon_resp.jpg")
- knitr::include_graphics("cultus_snow.jpg")
-```
+<div class="image-container">
+  <img src="cultus_snow.jpg" class="clickable-image" data-src="cultus_snow.jpg" style="border-radius: 30px;" alt="Cultus Lake research station in the snow (photo: Krista Kraskura)">
+</div>
+:::
 
-</center>
+
 
 ------------------------------------------------------------------------
 

@@ -127,6 +127,11 @@ body {
  // text-transform: uppercase;
 }
 
+.clickable-image {
+  margin-bottom: 15px;
+  z-index: 4; 
+  transition: transform 0.2s; 
+}
 
 .large-text {
   letter-spacing: 3px;
