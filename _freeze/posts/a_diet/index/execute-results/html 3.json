@@ -1,0 +1,14 @@
+{
+  "hash": "80ebcf75d88e918039e65d4661ece674",
+  "result": {
+    "markdown": "---\ntitle: <center> <h class = \"large-gray-text\"> Animal nutrition & temperature </h> </center>\nimage: OPA_lab3.jpeg\n---\n\n```{=html}\n<style>\n\n#title-block-header {\n  margin-block-end: 0rem;\n  position: relative;\n  margin-top: -1px;\n  height: 75px;\n}\n\n.large-gray-text {\n  letter-spacing: 3px;\n  font-weight: 500;\n  font-size: 36px; \n  color:  #e3ebef;\n  //text-transform: uppercase;\n}\n \n</style>\n```\n\n<p>\n\n</p>\n\nFood provides essential nutrients and fuel that animals need to respond to changes in their environment (e.g., oxygen, pH, temperature, salinity...). But humans are impacting what animals have available to eat and the quality of that food. In my PhD thesis, I have been studying how changes in food quantity, food options, and food quality impact thermal plasticity and tolerance of a temperate omnivorous fish called opaleye.\n\n::: {layout-ncol=\"2\"}\n<div class=\"image-container\">\n  <img src=\"opaleye_fishing_3.jpeg\" class=\"clickable-image\" data-src=\"opaleye_fishing_3.jpeg\" style=\"border-radius: 30px;\" alt=\"Fishing down at Stearns Wharf in Santa Barbara for tiny opaleye. Yes, I have tried to cacth them with peas. No, it did not work.\">\n</div>\n\n<div class=\"image-container\">\n  <img src=\"opaleye_fishing_1.jpg\" class=\"clickable-image\" data-src=\"opaleye_fishing_1.jpg\" style=\"border-radius: 30px;\" alt=\"Big thanks to everyone that helped me fish!\">\n</div>\n:::\n\n<center>\n\n\n::: {.cell .fig-cap-location-margin layout-ncol=\"2\" layout-align=\"center\"}\n::: {.cell-output-display}\n![*Fishing down at Stearns Wharf in Santa Barbara for tiny opaleye. Yes, I have tried to cacth them with peas. No, it did not work.*](opaleye_fishing_3.jpeg){fig-align='center'}\n:::\n\n::: {.cell-output-display}\n![*Big thanks to everyone that helped me fish!*](opaleye_fishing_1.jpg){fig-align='center'}\n:::\n:::\n\n\n</center>\n\n------------------------------------------------------------------------\n\n#### Relevant publications:\n\n-   **Emily A. Hardison**, Gail D. Schwieterman, Erika J. Eliason (2023). Diet changes thermal acclimation capacity, but not acclimation rate in a marine ectotherm (Girella nigricans) during warming. Proceedings of the Royal Society B. https://doi.org/10.1098/rspb.2022.2505\n\n-   **Emily A. Hardison**, Krista Kraskura, Jacey Van Wert, Tina Nguyen, Erika J. Eliason. (2021). Diet mediates thermal performance traits: implications for marine ectotherms. Journal of Experimental Biology. doi: 10.1242/jeb.242846. https://doi.org/10.1242/jeb.242846.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

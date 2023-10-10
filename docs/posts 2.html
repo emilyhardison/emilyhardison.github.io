@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Publications</title>
+<title></title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -58,6 +60,35 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-1GT62FMX5K"></script>
 
 <script type="text/javascript">
@@ -68,6 +99,7 @@ gtag('js', new Date());
 gtag('config', 'G-1GT62FMX5K', { 'anonymize_ip': true});
 </script>
 
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 </head>
 
@@ -88,11 +120,11 @@ gtag('config', 'G-1GT62FMX5K', { 'anonymize_ip': true});
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./posts.html">
+    <a class="nav-link active" href="./posts.html" aria-current="page">
  <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./publications.html" aria-current="page">
+    <a class="nav-link" href="./publications.html">
  <span class="menu-text">Pubs</span></a>
   </li>  
   <li class="nav-item">
@@ -106,23 +138,7 @@ gtag('config', 'G-1GT62FMX5K', { 'anonymize_ip': true});
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page">
-      <h1 class="title"><h class="large-text-light"><strong>Publications</strong></h></h1>
-                      </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta">
-
-      
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
@@ -132,88 +148,116 @@ gtag('config', 'G-1GT62FMX5K', { 'anonymize_ip': true});
 
 
 
-<style>
-
-#title-block-header {
-  margin-block-end: 2rem;
-  position: relative;
-  margin-top: -1px;
-  height: 75px;
-}
-
-.large-gray-text {
-  letter-spacing: 3px;
-  font-weight: 500;
-  color:  $cream;
-  //text-transform: uppercase;
-}
-
-</style>
-<section id="submitted" class="level3">
-<h3 class="anchored" data-anchor-id="submitted">Submitted</h3>
-<hr>
-<!-- -->
-<ol start="13" type="1">
-<li><strong>Emily A. Hardison</strong>, Erika J. Eliason. <strong>Diet effects on ectotherm thermal performance</strong>. In review at <em>Biological Reviews</em>.</li>
-</ol>
-<p><br></p>
-</section>
-<section id="published-indicates-equal-contribution" class="level3">
-<h3 class="anchored" data-anchor-id="published-indicates-equal-contribution">Published ( <sup>+</sup> indicates equal contribution)</h3>
-<hr>
-<ol start="12" type="1">
-<li>Krista Kraskura, <strong>Emily A. Hardison</strong>, Erika J. Eliason. <strong>Body size and temperature affect metabolic and cardiac thermal tolerance in fish.</strong> In Press at <em>Scientific Reports</em>.</li>
-</ol>
-<!-- -->
-<ol start="11" type="1">
-<li>Gail D. Schwieterman; <strong>Emily A. Hardison</strong>; Georgina K. Cox; Jacey Van Wert; Kim Birnie-Gauvin; Erika J. Eliason. <a href="https://doi.org/10.1016/j.cbpa.2023.111512"><u><strong>Mechanisms of cardiac collapse at high temperature in a marine teleost (Girella nigrians).</strong></u></a> <em>Comparative Physiology and Biochemistry Part A</em>.</li>
-</ol>
-<!-- -->
-<ol start="10" type="1">
-<li><strong>Emily A. Hardison</strong>, Gail D. Schwieterman, Erika J. Eliason (2023). <a href="https://doi.org/10.1098/rspb.2022.2505"><u><strong>Diet changes thermal acclimation capacity, but not acclimation rate in a marine ectotherm (Girella nigricans) during warming.</strong></u></a> <em>Proceedings of the Royal Society B</em>. Featured in <a href="https://journals.biologists.com/jeb/article/226/11/JEB245012/313571/Hot-hearts-can-beat-faster-when-meat-is-on-the"><u><strong>‘Outside JEB’</strong></u></a></li>
-</ol>
-<!-- -->
-<ol start="9" type="1">
-<li>Samantha R. Csik, Bartholomew P. DiFiore, Krista Kraskura, <strong>Emily A. Hardison</strong>, Joseph S. Curtis, Erika J. Eliason, and Adrian C. Stier (2023). <a href="https://doi.org/10.3389/fmars.2023.1072807"><u><strong>The metabolic underpinnings of temperature-dependent predation in a key marine predator.</strong></u></a> <em>Frontiers in Marine Science</em>.</li>
-</ol>
-<!-- -->
-<ol start="8" type="1">
-<li>Alexander G. Little, Tanya S. Prystay, <strong>Emily A. Hardison</strong>, Terra Dressler, Krista Kraskura, Steven J. Cooke, David A. Patterson, Scott G. Hinch, Erika J. Eliason. (2022). <a href="https://doi.org/10.1139/cjz-2022-0072."><u><strong>Evaluating Cardiac Oxygen Limitation as a Mechanism for Female-Biased Mortality in Coho Salmon (Oncorhynchus kisutch).</strong></u></a> <em>Canadian Journal of Zoology</em>.</li>
-</ol>
-<!-- -->
-<ol start="7" type="1">
-<li>Gail D. Schwieterman, <strong>Emily A. Hardison</strong>, Erika J. Eliason (2022). <a href="https://doi.org/10.1016/j.crphys.2022.02.002."><u><strong>Effect of thermal variation on the cardiac thermal limits of a eurythermal marine teleost (Girella nigricans).</strong></u></a> <em>Current Research in Physiology</em> (special issue).</li>
-</ol>
-<!-- -->
-<ol start="6" type="1">
-<li><strong>Emily A. Hardison</strong>, Krista Kraskura, Jacey Van Wert, Tina Nguyen † , Erika J. Eliason. (2021). <a href="https://doi.org/10.1242/jeb.242846."><u><strong>Diet mediates thermal performance traits: implications for marine ectotherms.</strong></u></a> <em>Journal of Experimental Biology</em>. Winner of JEB <a href="https://journals.biologists.com/jeb/article/225/2/jeb243996/274150"><u><strong>outstanding paper prize</strong></u></a> and featured in <a href="https://journals.biologists.com/jeb/article/224/21/jeb243659/272690/Diet-alters-how-opaleyes-cope-with-heat?searchresult=1"><u><strong>‘Inside JEB’</strong></u></a> and the <a href="https://www.news.ucsb.edu/2021/020487/opaleye-opening-result"><u><strong>UCSB current</strong></u></a><u>.</u></li>
-</ol>
-<!-- -->
-<ol start="5" type="1">
-<li>Krista Kraskura<sup>+</sup>, <strong>Emily A. Hardison<sup>+</sup></strong>, Alexander G. Little, Terra Dressler, Tanya S. Prystay, Brian Hendriks, Tony P. Farrell, Steve J. Cooke, David A. Patterson, Scott G. Hinch, and Erika J. Eliason. (2021). <a href="https://doi.org/10.1093/conphys/coab016"><u><strong>Sex-specific differences in swimming, aerobic scope, and recovery from exercise in adult coho salmon (Oncorhynchus kisutch) across ecologically relevant temperatures.</strong></u></a> <em>Conservation Physiology</em>. Featured in ‘Outside JEB’. <sup>+</sup>co-first author</li>
-</ol>
-<!-- -->
-<ol start="4" type="1">
-<li>Alexander G. Little, <strong>Emily Hardison</strong>, Krista Kraskura, Terra Dressler, Tanya Prystay, Brian Hendriks, Jonathon Pruitt, Tony P. Farrell, Steve J. Cooke, David Patterson, Scott G. Hinch, and Erika Eliason. (2020). <a href="https://doi.org/10.1242/jeb.214841"><u><strong>Reduced lactate dehydrogenase activity in the heart and suppressed sex hormone levels are associated with female-biased mortality during thermal stress in Pacific salmon.</strong></u></a> <em>Journal of Experimental Biology</em>.</li>
-</ol>
-<!-- -->
-<ol start="3" type="1">
-<li>Alexander G. Little<sup>+</sup>, Terra Dressler<sup>+</sup>, Krista Kraskura, <strong>Emily Hardison</strong>, Tony P. Farrell, Scott J. Hinch, David A. Patterson, Erika J. Eliason. (2020). <a href="https://doi.org/10.1086/708673."><u><strong>Maxed out: Optimizing accuracy, precision and power for field measures of maximum metabolic rate in fishes.</strong></u></a> <em>Physiological and Biochemical Zoology.</em></li>
-</ol>
-<!-- -->
-<ol start="2" type="1">
-<li>Mikhail Binnewies<sup>+</sup>, Adriana M. Mujal<sup>+</sup>, Joshua L. Pollack, Alexis J. Combes, <strong>Emily A. Hardison</strong>, Megan K. Ruhland, Kevin C. Barry, Patrick Ha, Vincent Chan, Edward W. Roberts, Matthew F. Krummel. (2019) <a href="https://doi.org/10.1016/J.CELL.2019.02.005"><u><strong>Unleashing Type-2 Dendritic Cells to Drive Protective Antitumor CD4+ T Cell Immunity</strong></u><strong>.</strong></a> <em>Cell</em>.</li>
-</ol>
-<!-- -->
-<ol type="1">
-<li>Matthew F. Krummel, Jagdish N. Mahale, Lion F. K. Uhl, <strong>Emily A. Hardison</strong>, Adriana M. Mujal, Julie M. Mazet, Robert J. Weber, Zev J. Gartner, and Audrey Gérard (2018). <a href="https://doi.org/10.1073/pnas.1804556115"><u><strong>Paracrine costimulation of IFN-γ signaling by integrins modulates CD8 T cell differentiation.</strong></u></a> <em>Proceedings of the National Academy of Sciences</em>.</li>
-</ol>
-<hr>
 
 
-</section>
 
-</main> <!-- /main -->
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1695945526197" data-listing-reading-time-sort="1.09">
+<a href="./posts/a_diet/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/a_diet/OPA_lab3.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+<center>
+<h class="large-gray-text"> Animal nutrition &amp; temperature </h>
+</center>
+</h5>
+<div class="card-text listing-description">
+
+
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1695945394976" data-listing-reading-time-sort="2.04">
+<a href="./posts/c_salmon/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/c_salmon/salmon_resp.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+<center>
+<h class="large-gray-text"> Pacific salmon energetics </h>
+</center>
+</h5>
+<div class="card-text listing-description">
+
+
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1695878120234" data-listing-reading-time-sort="1.73">
+<a href="./posts/b_fluctuating_environments/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/b_fluctuating_environments/opaleye_wild_1.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+<center>
+<h class="large-gray-text"> Life in variable environments </h>
+</center>
+</h5>
+<div class="card-text listing-description">
+
+
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1695945249957" data-listing-reading-time-sort="1.71">
+<a href="./posts/d_collabs/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/d_collabs/dog_lobster.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+<center>
+<h class="large-gray-text">Other collaborations &amp; fun things</h>
+</center>
+</h5>
+<div class="card-text listing-description">
+
+
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
