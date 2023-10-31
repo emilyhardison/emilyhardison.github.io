@@ -30,13 +30,13 @@ image: OPA_lab3.jpeg
 Food provides essential nutrients and fuel that animals need to respond to changes in their environment (e.g., oxygen, pH, temperature, salinity...). But humans are impacting what animals have available to eat and the quality of that food. In my PhD thesis, I have been studying how changes in food quantity, food options, and food quality impact thermal plasticity and tolerance of a temperate omnivorous fish called opaleye.
 
 ::: {layout-ncol="2"}
-<div class="image-container">
-  <img src="opaleye_fishing_3.jpeg" class="clickable-image" data-src="opaleye_fishing_3.jpeg" style="border-radius: 30px;" alt="Fishing down at Stearns Wharf in Santa Barbara for tiny opaleye. Yes, I have tried to cacth them with peas. No, it did not work.">
-</div>
-
-<div class="image-container">
-  <img src="opaleye_fishing_1.jpg" class="clickable-image" data-src="opaleye_fishing_1.jpg" style="border-radius: 30px;" alt="Big thanks to everyone that helped me fish!">
-</div>
+::: image-container
+<img src="opaleye_fishing_3.jpeg" alt="Fishing down at Stearns Wharf in Santa Barbara for tiny opaleye. Yes, I have tried to cacth them with peas. No, it did not work." class="clickable-image" data-src="opaleye_fishing_3.jpeg" style="border-radius: 30px;"/>
+:::
+ 
+::: image-container
+<img src="opaleye_fishing_1.jpg" alt="Big thanks to everyone that helped me fish!" class="clickable-image" data-src="opaleye_fishing_1.jpg" style="border-radius: 30px;"/>
+:::
 :::
 
 ------------------------------------------------------------------------
