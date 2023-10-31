@@ -1,0 +1,30 @@
+---
+title: <center><h class = "large-gray-text">Host-microbe interactions</h></center>
+image: tadpoles.png
+---
+
+```{=html}
+<style>
+
+#title-block-header {
+  margin-block-end: 0rem;
+  position: relative;
+  margin-top: -1px;
+  height: 75px;
+}
+.large-gray-text {
+  letter-spacing: 3px;
+  font-weight: 500;
+  font-size: 36px; 
+  color:  #e3ebef;
+  //text-transform: uppercase;
+}
+</style>
+```
+<p>
+
+</p>
+
+In Progress - Stay tuned!
+
+

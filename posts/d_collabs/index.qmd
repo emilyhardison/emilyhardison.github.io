@@ -27,18 +27,15 @@ image: dog_lobster.jpeg
 
 I have had the privelage of assisting some amazing people in their research on all sorts of critters from Mano de León scallops to California Spiny lobster and more!
 
-
 ::: {layout-ncol="2"}
-<div class="image-container">
-  <img src="dog_lobster.jpeg" class="clickable-image" data-src="dog_lobster.jpeg" style="border-radius: 30px;" alt="dog meets California Spiny Lobster">
-</div>
-
-<div class="image-container">
-  <img src="scallop.jpeg" class="clickable-image" data-src="scallop.jpeg" style="border-radius: 30px;" alt="A scallop from Erica Ferrer's PhD project on Mano de León scallops in Baja California, Mexico">
-</div>
+::: image-container
+<img src="dog_lobster.jpeg" alt="dog meets California Spiny Lobster" class="clickable-image" data-src="dog_lobster.jpeg" style="border-radius: 30px;"/>
 :::
 
-
+::: image-container
+<img src="scallop.jpeg" alt="A scallop from Erica Ferrer&apos;s PhD project on Mano de León scallops in Baja California, Mexico" class="clickable-image" data-src="scallop.jpeg" style="border-radius: 30px;"/>
+:::
+:::
 
 ------------------------------------------------------------------------
 

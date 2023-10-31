@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://emilyhardison.github.io/posts/d_collabs/index.html</loc>
-    <lastmod>2023-10-10T17:01:40.078Z</lastmod>
+    <lastmod>2023-10-31T02:51:37.223Z</lastmod>
   </url>
   <url>
     <loc>https://emilyhardison.github.io/posts/a_diet/index.html</loc>
@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>https://emilyhardison.github.io/index.html</loc>
-    <lastmod>2023-10-10T17:02:57.885Z</lastmod>
+    <lastmod>2023-10-31T02:33:37.496Z</lastmod>
   </url>
   <url>
     <loc>https://emilyhardison.github.io/publications.html</loc>
@@ -22,10 +22,18 @@
   </url>
   <url>
     <loc>https://emilyhardison.github.io/posts.html</loc>
-    <lastmod>2023-10-10T17:05:04.249Z</lastmod>
+    <lastmod>2023-10-31T02:51:37.574Z</lastmod>
   </url>
   <url>
     <loc>https://emilyhardison.github.io/posts/b_fluctuating_environments/index.html</loc>
     <lastmod>2023-10-10T17:04:30.302Z</lastmod>
+  </url>
+  <url>
+    <loc>https://emilyhardison.github.io/posts/e_microbiome/index.html</loc>
+    <lastmod>2023-10-31T02:50:56.469Z</lastmod>
+  </url>
+  <url>
+    <loc>https://emilyhardison.github.io/sci_comm.html</loc>
+    <lastmod>2023-10-31T02:33:44.103Z</lastmod>
   </url>
 </urlset>
