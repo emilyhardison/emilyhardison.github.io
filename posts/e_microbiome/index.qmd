@@ -26,5 +26,3 @@ image: tadpoles.png
 </p>
 
 In Progress - Stay tuned!
-
-
