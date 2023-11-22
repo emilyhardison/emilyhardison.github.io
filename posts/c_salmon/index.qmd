@@ -25,7 +25,7 @@ image: salmon_resp.jpg
 <p>
 
 </p>
-
+###
 Female salmon suffer higher rates of en route mortality than males during their upriver migration. The Eliason lab has been exploring the drivers of this phenomenom. In 2017, I had the opportunity to travel to Cultus Lake in British Columbia, Canada, and participate in an ongoing project in the Eliason Lab on **female-biased mortality in coho salmon**. This work was led by Dr. Erika Eliason and was a large collaborative effort involving researcher's from UBC, UCSB, Carlton University, and DFO. While we didn't figure out exactly why the females were dying, we did learn a lot about coho salmon energetics, thermal sensitivity, swimming performance, and more! Here are some of the photos from the trip. Check out our papers below!
 
 ::: {layout-ncol="2"}

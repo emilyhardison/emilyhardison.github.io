@@ -24,7 +24,7 @@ image: dog_lobster.jpeg
 <p>
 
 </p>
-
+###
 I have had the privelage of assisting some amazing people in their research on all sorts of critters from Mano de León scallops to California Spiny lobster and more!
 
 ::: {layout-ncol="2"}
