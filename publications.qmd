@@ -36,7 +36,9 @@ format:
 
 <!-- -->
 
-13. **Emily A. Hardison**, Erika J. Eliason. **Diet effects on ectotherm thermal performance**. In review at *Biological Reviews*.
+14. Jacey Van Wert, Kim Birnie-Gauvin, Jordan Gallagher, **Emily A. Hardison**, Kaitlyn Landfield, Deron Burkepile, Erika J. Eliason. Despite plasticity, heatwaves are costly for a coral reef fish. In review at Scientific Reports. 
+
+13. **Emily A. Hardison**, Erika J. Eliason. **Diet effects on ectotherm thermal performance**. In revision at *Biological Reviews*.
 
 <br>
 
@@ -44,7 +46,7 @@ format:
 
 ------------------------------------------------------------------------
 
-12. Krista Kraskura, **Emily A. Hardison**, Erika J. Eliason. **Body size and temperature affect metabolic and cardiac thermal tolerance in fish.** In Press at *Scientific Reports*.
+12. Krista Kraskura, **Emily A. Hardison**, Erika J. Eliason. [[**Body size and temperature affect metabolic and cardiac thermal tolerance in fish.**]{.underline}](https://doi.org/10.1038/s41598-023-44574-w) *Scientific Reports*.
 
 <!-- -->
 
