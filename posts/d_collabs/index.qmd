@@ -24,7 +24,9 @@ image: dog_lobster.jpeg
 <p>
 
 </p>
-###
+
+### 
+
 I have had the privelage of assisting some amazing people in their research on all sorts of critters from Mano de León scallops to California Spiny lobster and more!
 
 ::: {layout-ncol="2"}
@@ -47,7 +49,7 @@ I have had the privelage of assisting some amazing people in their research on a
 
 ###### *Temperature and size on Barred Surfperch (led by Dr. Krista Kraskura)*
 
--   Krista Kraskura, **Emily A. Hardison**, Erika J. Eliason. **Body size and temperature affect metabolic and cardiac thermal tolerance in fish.** In revision at *Scientific Reports*.
+-   Krista Kraskura, **Emily A. Hardison**, Erika J. Eliason. [[**Body size and temperature affect metabolic and cardiac thermal tolerance in fish.**]{.underline}](https://doi.org/10.1038/s41598-023-44574-w) *Scientific Reports*.
 
 ###### *Temperature on Lobsters (led by Samantha Csik)*
 
